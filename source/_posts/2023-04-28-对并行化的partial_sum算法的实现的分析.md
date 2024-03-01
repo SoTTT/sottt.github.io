@@ -3,6 +3,7 @@ layout: post
 title: 对并行化的partial_sum算法的实现的分析
 category: 并行
 tags: C++ 并行
+date: 2023-04-28
 ---
 
 并行化的 partial_sum 算法的一种实现如下：
